@@ -1,0 +1,30 @@
+<html>
+    <header style="background-color:black">
+        <img src="https://gsflash.ru/images/game/igra-fnaf-3.jpg" height="50px"/>
+        <a href="https://ru.wikipedia.org/wiki/Five_Nights_at_Freddy%E2%80%99s_3" style="color:LimeGreen">История</a>
+    </header>
+    
+  <main style="background-color:black">
+            <h1 style="font-size:50px;background-color:black;color:LimeGreen; text-align:center"> Five Nights at Freddy's 3 </h1>
+            <p style="color:LimeGreen ;font-size:25px;text-align:center;">На нашем сайте будут опубликованы:<br/> Главный герой нанимается охранником в аттракцион ужасов «Fazbear’s Fright: The Horror Attraction», созданный по мотивам легенд о закрывшейся 30 лет назад пиццерии Freddy Fazbear’s Pizza. Здесь отсутствуют энергия, двери, шкатулка и маска из прошлых частей, но появился второй планшет, позволяющий следить за состоянием систем.</p>
+
+<p style="color:LimeGreen ;font-size:25px;text-align:center;">Имеются три системы: «Audio Devices» (рус. Аудио-устройства), «Camera System» (рус. Система камер) и «Ventilation» (рус. Вентиляция). В системах могут произойти программные ошибки, которые можно устранить перезагрузкой соответствующей системы на втором планшете. Аудио-устройства, установленные на каждую из камер, позволяют воспроизводить в любом одном месте звуки Мальчика с Шариками (из FNaF 2), которые привлекают Спрингтрапа — главного антагониста игры (изначально робот был запрограммирован следовать за звуками детей,  чтобы можно было развлечь их как можно дольше). После каждого воспроизведения аудио-система перезагружается около пяти секунд, после этого вы снова сможете воспроизвести звук в любом месте. Если в аудио-устройствах произошёл сбой, вы не сможете воспроизводить звуки. Система камер отвечает за ваш обзор, и если она отключается, вы не сможете следить за обстановкой в аттракционе. Вентиляция отвечает за воздух в помещении, и если система вентиляции сломается, вы потеряете сознание или умрёте.</p>
+
+<p style="color:LimeGreen ;font-size:25px;text-align:center;">Игрок может переключаться между камерами здания и камерами вентиляции с помощью кнопки «Map Toggle» на первом планшете. В вентиляции введена другая система защиты: вы можете перекрывать её двойным нажатием на камеру, не давая Спрингтрапу пролезть там, так как путь при этом сокращается в несколько раз. Сбой в вентиляции может отключить все барьеры в ней. В игре также присутствуют фантомы (англ. Phantoms) — галлюцинации игрока. Они ломают какую-либо систему, делая игрока уязвимым перед Спрингтрапом. После прохождения пятой ночи вам будет доступна вкладка «Extra» (рус. Дополнительно), а также режим Nightmare (рус. Ночной кошмар).(Прохождение под картинками).</p>
+
+<p>
+    <img src="https://gsflash.ru/images/game/igra-fnaf-3.jpg"/>
+    <img src="https://fnaf-4.ru/uploads/posts/2016-02/1455132306_maxresdefault.jpg "/>    
+    </p>
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kn6AsJ-g0NA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+     </main>
+      <footer style="background-color:black">
+          <p style="color:LimeGreen ;">Дата выпуска:</p>
+          <p style="color:LimeGreen ;">Windows:2 марта 2015;</p>
+<p style="color:LimeGreen ;">Android:6 марта 2015;</p>
+<p style="color:LimeGreen ;">iOS:12 марта 2015;</p>
+<p style="color:LimeGreen ;">PlayStation 4, Xbox One, Nintendo Switch:29 ноября 2019.</p>
+      </footer>
+</html>
